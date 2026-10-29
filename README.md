@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ascii.svg" width="460" alt="Patricia Niță"/>
+</p>
+
 </p>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
