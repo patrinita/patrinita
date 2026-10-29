@@ -13,12 +13,11 @@
 
 <img src="./hd-about.svg" width="620" alt="ABOUT"/>
 
-I'm curious about people, patterns and how things work.<br>
-I enjoy asking questions, exploring unfamiliar problems<br>
-and turning what I learn into something practical.
+Curious about people, patterns and what happens when I try “one more thing” in Python.
 
-Currently working on my bachelor thesis<br>
-on NLP for emergency triage.
+I enjoy finding the story in the data, and checking whether the evidence agrees.
+
+Currently working on my bachelor thesis on NLP for emergency triage.
 
 <br>
 
